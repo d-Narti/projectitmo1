@@ -1,4 +1,4 @@
-# CheapPath
+# CdamEGE
 
 ### Краткое описание:
 
